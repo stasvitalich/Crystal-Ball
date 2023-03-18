@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CrystallBall</string>
+    <string name="prediction">Получить предсказание</string>
+    <string name="YourPrediction">Нажмите на кнопку, и вы увидите ваше предсказание</string>
 </resources>
